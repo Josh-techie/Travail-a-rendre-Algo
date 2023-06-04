@@ -16,7 +16,7 @@ The program uses three functions to simulate the queueing system:
 - `arrivees(F,...)`: Function that simulates the number of clients arriving at the post office between two discrete times.
 - `remplir_guichet(G,F,T)`: Function that assigns clients from the queue to available service stations.
 
-##Code Writer
+## Code Writer
 
 The code for this program was written by [Josh-Techie](https://github.com/Josh-techie).
 ## Contributing
